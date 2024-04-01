@@ -8,8 +8,8 @@ export function AboutUs() {
         <h2 className=" text-4xl sm:text-7xl font-semibold">$Snipa</h2>
         <p className="text-2xl mt-7">
           The iconic green frog that took the crypto world by storm.Well,
-          that'sPepe—the meme that transcended pixels and became a cultural
-          phenomenon. But what if I told you there's a new Animal in town—
+          {"that's"}Pepe—the meme that transcended pixels and became a cultural
+          phenomenon. But what if I told you {"there's"} a new Animal in town—
           Introducing $SNIPA on the base chain.
         </p>
       </div>

@@ -17,7 +17,7 @@ export default function HeadingSection() {
         <p className="text-2xl">$Snipa is ready to conquer Base.</p>
         <div>
           <button className="bg-darkBlue text-white px-3 py-2 text-2xl font-semibold rounded-md border-4 border-white">
-            Buy now
+            Chart
           </button>
         </div>
       </div>
