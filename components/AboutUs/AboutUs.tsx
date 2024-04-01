@@ -7,12 +7,10 @@ export function AboutUs() {
         <h2 className=" text-5xl sm:text-7xl font-semibold">About</h2>
         <h2 className=" text-4xl sm:text-7xl font-semibold">sinpabutblue</h2>
         <p className="text-2xl mt-7">
-          The iconic green frog that took the crypto world by storm.Well,{" "}
-          {"that's"}
-          Pepe—the meme that transcended pixels and became a cultural
-          phenomenon. But what if I told you {"there's"} a new frog in town—one
-          that wears the color of the sky and dreams of soaring even higher?
-          Introducing PEPEBUTBLUE in the blue base chain.
+          The iconic green frog that took the crypto world by storm.Well,
+          that'sPepe—the meme that transcended pixels and became a cultural
+          phenomenon. But what if I told you there's a new Animal in town—
+          Introducing $SNIPA on the base chain.
         </p>
       </div>
       <Image
