@@ -17,7 +17,7 @@ export function AboutUs() {
       </div>
       <Image
         className=" w-full md:max-w-[50%] "
-        src={"/apeblue.png"}
+        src={"/bluepepe.jpg"}
         alt="pepe blue"
         width={1920}
         height={1080}
