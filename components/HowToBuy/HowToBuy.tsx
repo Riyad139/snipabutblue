@@ -21,29 +21,28 @@ export default function HowToBuy() {
             className="border-4 text-left border-white px-5"
             value="item-1"
           >
-            <AccordionTrigger>Is it accessible?</AccordionTrigger>
-            <AccordionContent>
-              Yes. It adheres to the WAI-ARIA design pattern.
-            </AccordionContent>
+            <AccordionTrigger>GET SOME ETH</AccordionTrigger>
+            <AccordionContent>Have some ETH in your wallet</AccordionContent>
           </AccordionItem>
           <AccordionItem
             className="border-4 text-left border-white px-5"
             value="item-2"
           >
-            <AccordionTrigger>Is it styled?</AccordionTrigger>
+            <AccordionTrigger>BRIDGE YOUR ETH</AccordionTrigger>
             <AccordionContent>
-              Yes. It comes with default styles that matches the other
-              components&apos; aesthetic.
+              Bridge your Eth from Ethereum Network to Base Network Using
+              https://bridge.base.org/deposit
             </AccordionContent>
           </AccordionItem>
           <AccordionItem
             className="border-4 text-left border-white px-5"
             value="item-3"
           >
-            <AccordionTrigger>Is it animated?</AccordionTrigger>
+            <AccordionTrigger>SWITCH YOUR BASE ETH FOR $Snipa</AccordionTrigger>
             <AccordionContent>
-              Yes. {"It's"} animated by default, but you can disable it if you
-              prefer.
+              Just like Pepe’s loyal following, our community is passionate and
+              engaged. We’re not just building a token; we’re creating a
+              movement. Join us, and let’s make waves together.
             </AccordionContent>
           </AccordionItem>
         </Accordion>

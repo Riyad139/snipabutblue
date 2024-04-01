@@ -11,7 +11,9 @@ export default function HeadingSection() {
         alt="pepe blue"
       />
       <div className=" flex flex-col md:order-2 order-1  md:px-0 px-5  mt-[25%] md:mt-0 space-y-5 justify-center text-darkBlue">
-        <h1 className="text-5xl lg:text-7xl font-bold">snipabutblue</h1>
+        <h1 className="text-5xl lg:text-6xl font-bold">
+          Not a Cat not a Dog <br /> $Snipa
+        </h1>
         <p className="text-2xl">
           snipa conquered the green, snipabutblue is poised to skyrocket in the
           blue base chain
