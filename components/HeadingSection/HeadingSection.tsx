@@ -14,10 +14,7 @@ export default function HeadingSection() {
         <h1 className="text-5xl lg:text-6xl font-bold">
           Not a Cat not a Dog <br /> $Snipa
         </h1>
-        <p className="text-2xl">
-          snipa conquered the green, snipabutblue is poised to skyrocket in the
-          blue base chain
-        </p>
+        <p className="text-2xl">$Snipa is ready to conquer Base.</p>
         <div>
           <button className="bg-darkBlue text-white px-3 py-2 text-2xl font-semibold rounded-md border-4 border-white">
             Buy now

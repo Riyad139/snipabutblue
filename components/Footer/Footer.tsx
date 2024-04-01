@@ -9,13 +9,13 @@ export default function Footer() {
       <div className="flex gap-4 mt-16">
         <Link
           className="text-3xl p-3 bg-black text-white rounded-lg"
-          href={"#"}
+          href={"https://twitter.com/snipabase"}
         >
           <FaXTwitter />
         </Link>
         <Link
           className="text-3xl p-3 bg-darkBlue text-white rounded-lg"
-          href={"#"}
+          href={"https://t.me/BaseSnipa"}
         >
           <FaTelegram />
         </Link>
