@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function HeadingSection() {
   return (
@@ -16,9 +17,15 @@ export default function HeadingSection() {
         </h1>
         <p className="text-2xl">$Snipa is ready to conquer Base.</p>
         <div>
-          <button className="bg-darkBlue text-white px-3 py-2 text-2xl font-semibold rounded-md border-4 border-white">
+          <Link
+            target="_blank"
+            href={
+              "https://dexscreener.com/base/0x0a5a0b46a43e4cd3ba91e78f49dc678bf45e4ed2"
+            }
+            className="bg-darkBlue text-white px-3 py-2 text-2xl font-semibold rounded-md border-4 border-white"
+          >
             Chart
-          </button>
+          </Link>
         </div>
       </div>
     </div>
