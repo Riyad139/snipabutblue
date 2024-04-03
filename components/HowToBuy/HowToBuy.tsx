@@ -7,7 +7,7 @@ import {
 
 export default function HowToBuy() {
   return (
-    <div className="border-b-4 border-white">
+    <div id="buy" className="border-b-4 border-white">
       <div className="py-20  px-5 text-center max-w-[40rem] mx-auto ">
         <h2 className="text-6xl text-darkBlue mb-16 font-semibold">
           How to buy

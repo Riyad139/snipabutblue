@@ -2,7 +2,10 @@ import Image from "next/image";
 
 export function AboutUs() {
   return (
-    <div className="flex md:flex-row flex-col px-5 border-b-4 border-white pt-10 pb-20">
+    <div
+      id="about"
+      className="flex md:flex-row flex-col px-5 border-b-4 border-white pt-10 pb-20"
+    >
       <div className="flex md:mt-0 mt-20  text-darkBlue flex-col justify-center">
         <h2 className=" text-5xl sm:text-7xl font-semibold">About</h2>
         <h2 className=" text-4xl sm:text-7xl font-semibold">$Snipa</h2>

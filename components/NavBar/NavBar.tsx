@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 
 export default function NavBar() {
@@ -5,6 +7,10 @@ export default function NavBar() {
     { name: "About", id: "about" },
     { name: "How To Buy", id: "buy" },
   ];
+
+  const handleClick = (id: string) => {
+    document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
+  };
 
   return (
     <div className="py-3 px-5 border-b border-white bg-[#333A73] w-full">
@@ -18,9 +24,13 @@ export default function NavBar() {
             alt="pepe icon"
           />
         </div>
-        <ul className="flex space-x-5 text-white text-xl sm:text-2xl font-semibold">
+        <ul className="flex space-x-5 text-white text-xl sm:text-xl font-semibold">
           {linkItems.map((item) => (
-            <li className="flex" key={item.id}>
+            <li
+              className="flex cursor-pointer"
+              onClick={() => handleClick(item.id)}
+              key={item.id}
+            >
               {item.name}
             </li>
           ))}
