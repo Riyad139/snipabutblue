@@ -16,7 +16,7 @@ export default function HeadingSection() {
           Not a Cat not a Dog <br /> $PIPA
         </h1>
         <p className="text-2xl">$PIPA is ready to conquer Solana.</p>
-        <div>
+        {/* <div>
           <Link
             target="_blank"
             href={
@@ -26,7 +26,7 @@ export default function HeadingSection() {
           >
             Chart
           </Link>
-        </div>
+        </div> */}
       </div>
     </div>
   );
