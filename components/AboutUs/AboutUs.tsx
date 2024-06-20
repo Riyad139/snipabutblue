@@ -13,7 +13,7 @@ export function AboutUs() {
           The iconic green frog that took the crypto world by storm.Well,
           {"that's"}Pepe—the meme that transcended pixels and became a cultural
           phenomenon. But what if I told you {"there's"} a new Animal in town—
-          Introducing $PIPA on the base chain.
+          Introducing $PIPA on the Solana.
         </p>
       </div>
       <Image

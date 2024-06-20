@@ -24,7 +24,7 @@ export default function HowToBuy() {
             <AccordionTrigger>GET SOME ETH</AccordionTrigger>
             <AccordionContent>Have some ETH in your wallet</AccordionContent>
           </AccordionItem>
-          <AccordionItem
+          {/* <AccordionItem
             className="border-4 text-left border-white px-5"
             value="item-2"
           >
@@ -33,7 +33,7 @@ export default function HowToBuy() {
               Bridge your Eth from Ethereum Network to Base Network Using
               https://bridge.base.org/deposit
             </AccordionContent>
-          </AccordionItem>
+          </AccordionItem> */}
           <AccordionItem
             className="border-4 text-left border-white px-5"
             value="item-3"
