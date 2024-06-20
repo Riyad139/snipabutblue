@@ -21,8 +21,8 @@ export default function HowToBuy() {
             className="border-4 text-left border-white px-5"
             value="item-1"
           >
-            <AccordionTrigger>GET SOME ETH</AccordionTrigger>
-            <AccordionContent>Have some ETH in your wallet</AccordionContent>
+            <AccordionTrigger>GET SOME Solana</AccordionTrigger>
+            <AccordionContent>Have some Solana in your wallet</AccordionContent>
           </AccordionItem>
           {/* <AccordionItem
             className="border-4 text-left border-white px-5"
@@ -38,7 +38,7 @@ export default function HowToBuy() {
             className="border-4 text-left border-white px-5"
             value="item-3"
           >
-            <AccordionTrigger>SWITCH YOUR BASE ETH FOR $PIPA</AccordionTrigger>
+            <AccordionTrigger>SWITCH YOUR SOLANA FOR $PIPA</AccordionTrigger>
             <AccordionContent>
               Just like Pepe’s loyal following, our community is passionate and
               engaged. We’re not just building a token; we’re creating a
