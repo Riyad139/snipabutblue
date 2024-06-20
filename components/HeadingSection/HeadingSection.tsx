@@ -13,9 +13,9 @@ export default function HeadingSection() {
       />
       <div className=" flex flex-col md:order-2 order-1  md:px-0 px-5  mt-[25%] md:mt-0 space-y-5 justify-center text-darkBlue">
         <h1 className="text-5xl lg:text-6xl font-bold">
-          Not a Cat not a Dog <br /> $Snipa
+          Not a Cat not a Dog <br /> $PIPA
         </h1>
-        <p className="text-2xl">$Snipa is ready to conquer Base.</p>
+        <p className="text-2xl">$PIPA is ready to conquer Solana.</p>
         <div>
           <Link
             target="_blank"

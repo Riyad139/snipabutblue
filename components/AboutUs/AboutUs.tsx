@@ -8,12 +8,12 @@ export function AboutUs() {
     >
       <div className="flex md:mt-0 mt-20  text-darkBlue flex-col justify-center">
         <h2 className=" text-5xl sm:text-7xl font-semibold">About</h2>
-        <h2 className=" text-4xl sm:text-7xl font-semibold">$Snipa</h2>
+        <h2 className=" text-4xl sm:text-7xl font-semibold">$PIPA</h2>
         <p className="text-2xl mt-7">
           The iconic green frog that took the crypto world by storm.Well,
           {"that's"}Pepe—the meme that transcended pixels and became a cultural
           phenomenon. But what if I told you {"there's"} a new Animal in town—
-          Introducing $SNIPA on the base chain.
+          Introducing $PIPA on the base chain.
         </p>
       </div>
       <Image

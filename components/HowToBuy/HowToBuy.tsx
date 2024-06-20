@@ -38,7 +38,7 @@ export default function HowToBuy() {
             className="border-4 text-left border-white px-5"
             value="item-3"
           >
-            <AccordionTrigger>SWITCH YOUR BASE ETH FOR $Snipa</AccordionTrigger>
+            <AccordionTrigger>SWITCH YOUR BASE ETH FOR $PIPA</AccordionTrigger>
             <AccordionContent>
               Just like Pepe’s loyal following, our community is passionate and
               engaged. We’re not just building a token; we’re creating a
