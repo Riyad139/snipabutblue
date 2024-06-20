@@ -16,17 +16,17 @@ export default function HeadingSection() {
           Not a Cat not a Dog <br /> $PIPA
         </h1>
         <p className="text-2xl">$PIPA is ready to conquer Solana.</p>
-        {/* <div>
+        <div>
           <Link
             target="_blank"
             href={
-              "https://dexscreener.com/base/0x0a5a0b46a43e4cd3ba91e78f49dc678bf45e4ed2"
+              "https://pump.fun/5fN1zsX9s5TPFRkvrnUXPR5c5j9ooYjDJvtegHy7pump"
             }
             className="bg-darkBlue text-white px-3 py-2 text-2xl font-semibold rounded-md border-4 border-white"
           >
             Chart
           </Link>
-        </div> */}
+        </div>
       </div>
     </div>
   );
