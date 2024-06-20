@@ -10,14 +10,14 @@ export default function Footer() {
         <Link
           target="_blank"
           className="text-3xl p-3 bg-black text-white rounded-lg"
-          href={"https://twitter.com/PIPAbase"}
+          href={"https://X.com/pipacto"}
         >
           <FaXTwitter />
         </Link>
         <Link
           target="_blank"
           className="text-3xl p-3 bg-darkBlue text-white rounded-lg"
-          href={"https://t.me/BasePIPA"}
+          href={"https://t.me/SolPipa"}
         >
           <FaTelegram />
         </Link>
